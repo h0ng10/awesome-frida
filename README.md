@@ -50,6 +50,7 @@ More info [here](http://www.frida.re/).
 - [frida-cycript](https://github.com/nowsecure/frida-cycript) - Fork of cycript with new runtime called [Mjølner](https://github.com/nowsecure/mjolner) powered by Frida.
 - [r2frida](https://github.com/nowsecure/r2frida) - static and dynamic analysis synergy
 - [ios-inject-custom](https://github.com/oleavr/ios-inject-custom) - use Frida for standalone injection of a custom payload for iOS.
+- [FRAPL Framework](https://github.com/FriedAppleTeam/FRAPL) - IDA Pro Plugin (OSX/iOS only)
 
 <a name="talks-and-papers" />
 
@@ -106,7 +107,7 @@ More info [here](http://www.frida.re/).
 * [Hacking Android apps with Frida part1](https://www.codemetrix.net/hacking-android-apps-with-frida-1/), [part2/crackme](https://www.codemetrix.net/hacking-android-apps-with-frida-2/), [part3](https://www.codemetrix.net/hacking-android-apps-with-frida-3/)
 * [OWASP iOS crackme tutorial: Solved with Frida](https://www.nowsecure.com/blog/2017/04/27/owasp-ios-crackme-tutorial-frida/)
 * Detecting Frida [poxyran](https://crackinglandia.wordpress.com/2015/11/10/anti-instrumentation-techniques-i-know-youre-there-frida/), [Bernhard Mueller](http://www.vantagepoint.sg/blog/90-the-jiu-jitsu-of-detecting-frida)
-
+* [Fun with frida](https://www.securusglobal.com/community/2016/08/22/fun-with-frida/) - Analyzing SQLite3 queries with frida
 <a name="community" />
 
 ## Community
